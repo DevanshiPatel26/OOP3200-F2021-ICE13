@@ -1,3 +1,3 @@
-# OOP3200-F2021-ICE12
+# OOP3200-F2021-ICE13
 
-In-Class Exercise Demo for Week 13 @ Durham College
+In-Class Exercise Demo for Week 14 @ Durham College
